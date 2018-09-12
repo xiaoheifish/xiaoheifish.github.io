@@ -1,14 +1,13 @@
 # Site settings
 title: Christy Zone
 SEOTitle: 小黑的博客 | Christy Zone
-# header-img: img/post-bg-2015.jpg
 header-img: img/home-background.jpg
 email: bihanyuchristy@gmail.com
 description: "Love life till death"
 keyword: "Christy Zone, xiaoheifish, yuxiaohei, Java, Spring, Springboot"
 url: "www.chrismo.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/xiaoheifish/xiaoheifish.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
