@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     2418467573@qq.com
+zhihu_username:     xiaohei-yu
 github_username:    xiaoheifish
 facebook_username:  Christy Yu
 #jianshu_username:   e71990ada2fd
@@ -56,8 +56,6 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
