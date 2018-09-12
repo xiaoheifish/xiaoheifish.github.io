@@ -1,9 +1,9 @@
 # Site settings
 title: Christy Zone
 SEOTitle: 小黑的博客 | Christy Zone
-header-img: http://opzhydkky.bkt.clouddn.com/home-background.jpg 
+header-img: img/post-bg-2015.jpg
 email: bihanyuchristy@gmail.com
-description: "We will glow in the dark turning dust into gold"
+description: "Love life till death"
 keyword: "Christy Zone, xiaoheifish, yuxiaohei, Java, Spring, Springboot"
 url: "https://xiaoheifish.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
