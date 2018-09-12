@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2018-09-12-使用Gihub Pages和Jekyll搭建个人博客"
+title: "使用Gihub Pages和Jekyll搭建个人博客"
 subtitle:   搭建博客
 date:       2018-09-12 
 author:     Christy
