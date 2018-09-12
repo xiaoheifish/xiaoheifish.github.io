@@ -1,7 +1,7 @@
 # Site settings
 title: Christy Zone
 SEOTitle: 小黑的博客 | Christy Zone
-header-img: img/Christy-portrait.jpg
+header-img: /img/home-background.jpg 
 email: bihanyuchristy@gmail.com
 description: "We will glow in the dark turning dust into gold"
 keyword: "Christy Zone, xiaoheifish, yuxiaohei, Java, Spring, Springboot"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "We will glow in the dark turning dust into gold"
-sidebar-avatar: /img/home-background.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/Christy-portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
