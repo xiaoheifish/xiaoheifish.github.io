@@ -41,3 +41,5 @@ Gemfile.lock
 
 # 批量操作脚本
 comment.rb
+
+Rakefile
