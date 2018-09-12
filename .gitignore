@@ -33,3 +33,8 @@ Temporary Items
 
 # debug file
 _site
+
+
+# gem file
+Gemfile
+Gemfile.lock
