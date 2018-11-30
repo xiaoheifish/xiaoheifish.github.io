@@ -12,7 +12,7 @@ github_repo: "https://github.com/xiaoheifish/xiaoheifish.github.io" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Love life till death"
-sidebar-avatar: http://phszou0fn.bkt.clouddn.com/Christy-portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://cdn.terabits-wx.cn/Christy-portrait.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
